@@ -1,8 +1,8 @@
 package main
 
 import (
-	"go-fiber-api/middleware"
-	"go-fiber-api/routes"
+	"github.com/shreyachandil/go-fiber-api/middleware"
+	"github.com/shreyachandil/go-fiber-api/routes"
 
 	"github.com/gofiber/fiber/v2"
 )
